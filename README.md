@@ -60,6 +60,14 @@ Interface leve, elegante e compatível com todos os Macs modernos
 
 https://github.com/maxpicelli/Media-Install-Creator-by-Max.1974/releases/download/Create-Install-Media/Media.Install.Creator.by.Max.1974.zip 
 
+
+### 🔹 Video Tutorial
+
+[![Watch the tutorial](https://img.youtube.com/vi/DFtfJ00OmTw/hqdefault.jpg)](https://youtu.be/DFtfJ00OmTw)
+
+> 📺 Click para assistir no YouTube
+
+
 ## ✨ Apoio e Inspiração 
 
 
