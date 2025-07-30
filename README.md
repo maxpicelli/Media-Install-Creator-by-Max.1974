@@ -56,6 +56,10 @@ Criado por **Max.1974**
 Desenvolvido 100% com AppleScript genuíno  
 Interface leve, elegante e compatível com todos os Macs modernos
 
+## ✨ RELEASE
+
+https://github.com/maxpicelli/Media-Install-Creator-by-Max.1974/releases/download/Create-Install-Media/Media.Install.Creator.by.Max.1974.zip 
+
 ## ✨ Apoio e Inspiração 
 
 
