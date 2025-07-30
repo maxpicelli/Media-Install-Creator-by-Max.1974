@@ -9,7 +9,7 @@ O **Media Install Creator** é um aplicativo gráfico feito 100% com Genuíno **
 
 > 🔹 Compatível com macOS Monterey (12) ou superior  
 > 🔹 Não requer instalação de Xcode ou Python  
-> 🔹 Baseado no comando oficial `startosinstall`  
+> 🔹 Baseado no comando oficial `createinstallmedia`  
 > 🔹 Interface amigável com suporte a Drag & Drop
 
 ---
